@@ -1,0 +1,432 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.navbar .nav-link{
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+}
+.banner-title h1{
+    color:navy;
+    font-weight: bolder;
+    font-size: 3rem;
+}
+.banner-title h4{
+    color: orangered;
+}
+.main-btn{
+    padding: 7px 22px;
+    background: orangered;
+    border-radius: 20px;
+    color: white;
+    font-size: 17px;
+    margin-top: 26px;
+    border: none;
+    cursor: pointer;
+}
+ .card-head img{
+    display: inline-block;
+    background: silver;
+    padding: 10px;
+    border-radius: 10px;
+    height: 54px;
+ } 
+ .card-head{
+    display: inline-flex;
+ }
+.card-head h2{
+    margin-left: 30px;
+}
+.card-text{
+    margin-top: 5px;
+}
+.card-text a{
+    color: orange;
+    font-weight: bold;
+    padding-bottom: 10px;
+
+}
+.cards{
+    border: 2px solid transparent;
+    padding: 14px 23px;
+    border-radius: 16px;
+    cursor: pointer;
+    box-shadow: 2px 1px 32px -7px rgba(0,0,0,0.52);
+-webkit-box-shadow: 2px 1px 32px -7px rgba(0,0,0,0.52);
+-moz-box-shadow: 2px 1px 32px -7px rgba(0,0,0,0.52);
+}
+.cards:hover,.cards:focus{
+    border: 2px solid orange;
+}
+.company-text h1{
+    color: navy;
+    font-weight: bolder;
+}
+.company-text li::marker {
+    color: orange;}
+    
+    .about .about-text h1{
+        color: navy;
+        font-weight: 900;
+    }
+    .about .about-text h6{
+        font-weight: 700;
+    }
+    .product h1{
+        color: navy;
+        font-weight: bold;
+    }
+    .product1{
+        box-shadow: 1px 3px 11px;
+        padding: 15px 10px;
+        border-radius: 15px;
+        position: relative;
+    }
+    .product1 ul{
+        width: 300px;
+    }
+    .product1 h4{
+        color: navy;
+        font-weight: 700;
+    }
+    .product1::after{
+        content: url(/assest/images/product-1.png);
+        content: url(/assest/images/product-1.png);
+        left: 375px;
+        position: absolute;
+        top: 231px;
+    }
+    .product2{
+        box-shadow: 1px 3px 11px;
+        padding: 15px 10px;
+        border-radius: 15px;
+        position: relative;
+    }
+    .product2 ul{
+        width: 300px;
+    }
+    .product2 h4{
+        color: navy;
+        font-weight: 700;
+    }
+    .product2::after{
+content: url(/assest/images/product-2.png);
+        left: 375px;
+        position: absolute;
+        top: 231px;
+    }
+    .service-left h1{
+        color: navy;
+        font-weight: bolder;
+    }
+    .service-right{
+        box-shadow: 1px 3px 6px;
+        border-radius: 10px;
+        padding: 20px 20px;
+        position: relative;
+    }
+    .service-content {
+        width: 482px;
+    }
+    .service-content h2,h4{
+        color: navy;
+        font-weight: 700;
+    }.service-content p{
+        color: blue;
+    }
+    .service-content a{
+        color: orangered;
+        font-weight: 800;
+
+    }
+    .service-content a:hover{
+        color: orangered;
+        font-weight: 800;
+        margin-left: 10px;
+        
+    }
+    .service-right::after{
+        content: url(/assest/images/product-3.png);
+            position: absolute;
+            top: 36px;
+            left: 478px;
+    }
+    /* service1 */
+    .Service1{
+        box-shadow: 1px 3px 6px;
+        border-radius: 10px;
+        padding: 20px 20px;
+        position: relative;
+        width: 100%;
+    }
+    .service-content {
+        width: 452px;
+    }
+    .service1 h2,h4{
+        color: navy;
+        font-weight: 700;
+    }.service-content p{
+        color: blue;
+    }
+    .service-content a{
+        color: orangered;
+        font-weight: 800;
+
+    }
+    .service-content a:hover{
+        color: orangered;
+        font-weight: 800;
+        margin-left: 10px;
+        
+    }
+    .Service1 .service-content{
+    width: 300px;
+    }
+    .Service1::after{
+        content: url(/assest/images/product-4.png);
+            position: absolute;
+            top: 116px;
+            left: 313px;
+    }
+    .Service2{
+        box-shadow: 1px 3px 6px;
+        border-radius: 10px;
+        padding: 20px 20px;
+        position: relative;
+        width: 100%;
+    }
+    .service-content {
+        width: 452px;
+    }
+    .service2 h2,h4{
+        color: navy;
+        font-weight: 700;
+    }.service-content p{
+        color: blue;
+    }
+    .service-content a{
+        color: orangered;
+        font-weight: 800;
+
+    }
+    .service-content a:hover{
+        color: orangered;
+        font-weight: 800;
+        margin-left: 10px;
+        
+    }
+    .Service2 .service-content{
+    width: 300px;
+    }
+    .Service2::after{
+        content: url(/assest/images/product-5.png);
+            position: absolute;
+            top: 116px;
+            left: 313px;
+    }
+    
+    .Service3{
+        box-shadow: 1px 3px 6px;
+        border-radius: 10px;
+        padding: 20px 20px;
+        position: relative;
+        width: 100%;
+    }
+    .service-content {
+        width: 452px;
+    }
+    .service2 h2,h4{
+        color: navy;
+        font-weight: 700;
+    }.service-content p{
+        color: blue;
+    }
+    .service-content a{
+        color: orangered;
+        font-weight: 800;
+
+    }
+    .service-content a:hover{
+        color: orangered;
+        font-weight: 800;
+        margin-left: 10px;
+        
+    }
+    .Service3 .service-content{
+    width: 300px;
+    }
+    .Service3::after{
+        content: url(/assest/images/product-6.png);
+            position: absolute;
+            top: 116px;
+            left: 305px;
+    }
+    
+    .Service4{
+        box-shadow: 1px 3px 6px;
+        border-radius: 10px;
+        padding: 20px 20px;
+        position: relative;
+        width: 100%;
+    }
+    .service-content {
+        width: 452px;
+    }
+    .service2 h2,h4{
+        color: navy;
+        font-weight: 700;
+    }.service-content p{
+        color: blue;
+    }
+    .service-content a{
+        color: orangered;
+        font-weight: 800;
+
+    }
+    .service-content a:hover{
+        color: orangered;
+        font-weight: 800;
+        margin-left: 10px;
+        
+    }
+    .Service4 .service-content{
+    width: 300px;
+    }
+    .Service4::after{
+        content: url(/assest/images/product-7.png);
+            position: absolute;
+            top: 116px;
+            left: 313px;
+    }
+    .scrap-main{
+        padding: 18px 19px;
+        box-shadow: 1px 3px 9px;
+        border-radius: 20px
+    }
+    .scrap-content h3{
+color: navy;
+font-weight: 600;
+    }
+    .scrap-content p,.scrap-content ul li{
+        color: navy;
+    }
+    .scrap-content a{
+        color: orangered;
+        font-weight: bold;
+    }
+    .scrap-main img{
+        position: absolute;
+        right: 0px;
+    
+    }
+    .testi-content h1{
+color: navy;
+font-weight: bolder;
+    }
+    .testi-card .card-t .card-head{
+            padding: 10px;
+        border-radius: 50%;
+        display: block;
+    }
+    .testi-cards{
+    box-shadow: 1px 3px 7px;
+    border-radius: 12px;
+    padding: 10px 28px;
+    height: fit-content;
+    }
+    .testi-cards:hover{
+        box-shadow: 1px 3px 7px;
+        border-radius: 12px;
+        padding: 10px 28px;
+        height: fit-content;
+        border: 1px solid orangered;
+        }
+.testi-cards .head-card {
+    text-align: center;
+    display: block;
+    margin: 2px 3px;
+}
+.testi-cards .head-card img{
+        border-radius: 50%;
+        box-shadow: 1px 1px 14px;
+}
+.card-c {
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 3px 6px;
+    padding: 20px 61px;
+    width: 100%;
+    height: 125px;
+    border-radius: 11px;
+}
+.clients h1{
+    color: navy;
+    font-weight: bolder;
+}
+.card-c3{
+    background-image: linear-gradient(33deg, pink, violet);
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 3px 6px;
+    padding: 28px 61px;
+    width: 100%;
+    height: 125px;
+
+    
+}
+.contact h2{
+    color: orangered;
+}
+.contact h1{
+    color: navy;
+
+}
+.contact-list{
+    position: relative;
+    list-style: none;
+}
+.icon{
+    position: absolute;
+    left: 7px;
+}
+.contact-text {
+    border-bottom: 1px solid grey;
+}
+ .icons i{
+    font-size: 40px;
+    color: blue;
+    padding-top: 20px;
+    transition: 0.5s;
+    cursor: pointer;
+    border-radius: 50%;
+} 
+.icons i:hover{
+    padding-top: 10px;
+} 
+.footer-nav {
+    list-style: none;
+    display: flex;
+    margin-top: 6rem;
+    border-bottom: 2px solid orangered;
+    text-align: center;
+    padding-bottom: 25px;
+    width: fit-content;
+
+}
+.footer-nav li{
+    margin: 0px 20px;
+
+}
+.icon-f{
+    position: absolute;
+    left: 7px;
+    color:orangered;
+
+}
+.footer-info{
+    
+    border-top: 2px solid navy;
+    padding: 15px;
+    
+}

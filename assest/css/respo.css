@@ -1,0 +1,674 @@
+@media (max-width:1164px) {
+    .product1::after,.product2::after{
+        display: none;
+    }
+    .Service1 .service-content{
+        width: 300px;
+        }
+        .Service1::after{
+            
+                position: absolute;
+                top: 116px;
+                left: 313px;
+                visibility: hidden;
+        }
+        .Service2{
+            box-shadow: 1px 3px 6px;
+            border-radius: 10px;
+            padding: 20px 20px;
+            position: relative;
+            width: 100%;
+        }
+        .service-content {
+            width:250px;
+        }
+        .service2 h2,h4{
+            color: navy;
+            font-weight: 700;
+        }.service-content p{
+            color: blue;
+        }
+        .service-content a{
+            color: orangered;
+            font-weight: 800;
+    
+        }
+        .service-content a:hover{
+            color: orangered;
+            font-weight: 800;
+            margin-left: 10px;
+            
+        }
+        .Service2 .service-content{
+        width: 300px;
+        }
+        .Service2::after{
+
+                position: absolute;
+                top: 116px;
+                left: 313px;
+                visibility: hidden;
+        }
+        
+        .Service3{
+            box-shadow: 1px 3px 6px;
+            border-radius: 10px;
+            padding: 20px 20px;
+            position: relative;
+            width: 100%;
+        }
+        .service-content {
+            width: 452px;
+        }
+        .service2 h2,h4{
+            color: navy;
+            font-weight: 700;
+        }.service-content p{
+            color: blue;
+        }
+        .service-content a{
+            color: orangered;
+            font-weight: 800;
+    
+        }
+        .service-content a:hover{
+            color: orangered;
+            font-weight: 800;
+            margin-left: 10px;
+            
+        }
+        .Service3 .service-content{
+        width: 300px;
+        }
+        .Service3::after{
+                position: absolute;
+                top: 116px;
+                left: 305px;
+                visibility: hidden;
+                
+            
+        }
+        
+        .Service4{
+            box-shadow: 1px 3px 6px;
+            border-radius: 10px;
+            padding: 20px 20px;
+            position: relative;
+            width: 100%;
+        }
+        .service-content {
+            width: 452px;
+        }
+        .service2 h2,h4{
+            color: navy;
+            font-weight: 700;
+        }.service-content p{
+            color: blue;
+        }
+        .service-content a{
+            color: orangered;
+            font-weight: 800;
+    
+        }
+        .service-content a:hover{
+            color: orangered;
+            font-weight: 800;
+            margin-left: 10px;
+            
+        }
+        .Service4 .service-content{
+        width: 300px;
+        }
+        .Service4::after{
+            
+                position: absolute;
+                top: 116px;
+                left: 313px;
+                visibility: hidden;
+        }
+        .service-right::after{
+                position: absolute;
+                top: 36px;
+                left: 478px;
+                visibility: hidden;
+        }
+        .service-right{
+            box-shadow: 1px 3px 6px;
+            border-radius: 10px;
+            padding: 20px 20px;
+            position: relative;
+        }
+        .service-content {
+            width: fit-content;
+        }
+        .scrap{
+          
+        }
+        .scrap-main{
+            padding: 18px 19px;
+            box-shadow: 1px 3px 9px;
+            height: auto;
+            border-radius: 20px
+        }
+        .scrap-content h3{
+    color: navy;
+    font-weight: 600;
+        }
+        .scrap-content p,.scrap-content ul li{
+            color: navy;
+        }
+        .scrap-content a{
+            color: orangered;
+            font-weight: bold;
+        }
+        .scrap-main img{
+        visibility: hidden;
+        }
+}
+@media (max-width:989px) {
+    .product1::after,.product2::after{
+        display: none;
+    }
+    .Service1 .service-content{
+        width: 300px;
+        }
+        .Service1::after{
+            
+                position: absolute;
+                top: 116px;
+                left: 313px;
+                visibility: hidden;
+        }
+        .Service2{
+            box-shadow: 1px 3px 6px;
+            border-radius: 10px;
+            padding: 20px 20px;
+            position: relative;
+            width: 100%;
+        }
+        .service-content {
+            width:250px;
+        }
+        .service2 h2,h4{
+            color: navy;
+            font-weight: 700;
+        }.service-content p{
+            color: blue;
+        }
+        .service-content a{
+            color: orangered;
+            font-weight: 800;
+    
+        }
+        .service-content a:hover{
+            color: orangered;
+            font-weight: 800;
+            margin-left: 10px;
+            
+        }
+        .Service2 .service-content{
+        width: 300px;
+        }
+        .Service2::after{
+
+                position: absolute;
+                top: 116px;
+                left: 313px;
+                visibility: hidden;
+        }
+        
+        .Service3{
+            box-shadow: 1px 3px 6px;
+            border-radius: 10px;
+            padding: 20px 20px;
+            position: relative;
+            width: 100%;
+        }
+        .service-content {
+            width: 452px;
+        }
+        .service2 h2,h4{
+            color: navy;
+            fSont-weight: 700;
+        }.service-content p{
+            color: blue;
+        }
+        .service-content a{
+            color: orangered;
+            font-weight: 800;
+    
+        }
+        .service-content a:hover{
+            color: orangered;
+            font-weight: 800;
+            margin-left: 10px;
+            
+        }
+        .Service3 .service-content{
+        width: 300px;
+        }
+        .Service3::after{
+                position: absolute;
+                top: 116px;
+                left: 305px;
+                visibility: hidden;
+                
+            
+        }
+        
+        .Service4{
+            box-shadow: 1px 3px 6px;
+            border-radius: 10px;
+            padding: 20px 20px;
+            position: relative;
+            width: 100%;
+        }
+        .service-content {
+            width: 452px;
+        }
+        .service2 h2,h4{
+            color: navy;
+            font-weight: 700;
+        }.service-content p{
+            color: blue;
+        }
+        .service-content a{
+            color: orangered;
+            font-weight: 800;
+    
+        }
+        .service-content a:hover{
+            color: orangered;
+            font-weight: 800;
+            margin-left: 10px;
+            
+        }
+        .Service4 .service-content{
+        width: 300px;
+        }
+        .Service4::after{
+            
+                position: absolute;
+                top: 116px;
+                left: 313px;
+                visibility: hidden;
+        }
+        .service-right::after{
+                position: absolute;
+                top: 36px;
+                left: 478px;
+                visibility: hidden;
+        }
+        .service-right{
+            box-shadow: 1px 3px 6px;
+            border-radius: 10px;
+            padding: 20px 20px;
+            position: relative;
+        }
+        .service-content {
+            width: fit-content;
+        }
+        .scrap{
+          
+        }
+        .scrap-main{
+            padding: 18px 19px;
+            box-shadow: 1px 3px 9px;
+            height: auto;
+            border-radius: 20px
+        }
+        .scrap-content h3{
+    color: navy;
+    font-weight: 600;
+        }
+        .scrap-content p,.scrap-content ul li{
+            color: navy;
+        }
+        .scrap-content a{
+            color: orangered;
+            font-weight: bold;
+        }
+        .scrap-main img{
+        visibility: hidden;
+        }   
+}
+@media (max-width:776px ) {
+    .product1::after,.product2::after{
+        display: none;
+    }
+    .Service1 .service-content{
+        width: 300px;
+        }
+        .Service1::after{
+            
+                position: absolute;
+                top: 116px;
+                left: 313px;
+                visibility: hidden;
+        }
+        .Service2{
+            box-shadow: 1px 3px 6px;
+            border-radius: 10px;
+            padding: 20px 20px;
+            position: relative;
+            width: 100%;
+        }
+        .service-content {
+            width:250px;
+        }
+        .service2 h2,h4{
+            color: navy;
+            font-weight: 700;
+        }.service-content p{
+            color: blue;
+        }
+        .service-content a{
+            color: orangered;
+            font-weight: 800;
+    
+        }
+        .service-content a:hover{
+            color: orangered;
+            font-weight: 800;
+            margin-left: 10px;
+            
+        }
+        .Service2 .service-content{
+        width: 300px;
+        }
+        .Service2::after{
+
+                position: absolute;
+                top: 116px;
+                left: 313px;
+                visibility: hidden;
+        }
+        
+        .Service3{
+            box-shadow: 1px 3px 6px;
+            border-radius: 10px;
+            padding: 20px 20px;
+            position: relative;
+            width: 100%;
+        }
+        .service-content {
+            width: 452px;
+        }
+        .service2 h2,h4{
+            color: navy;
+            fSont-weight: 700;
+        }.service-content p{
+            color: blue;
+        }
+        .service-content a{
+            color: orangered;
+            font-weight: 800;
+    
+        }
+        .service-content a:hover{
+            color: orangered;
+            font-weight: 800;
+            margin-left: 10px;
+            
+        }
+        .Service3 .service-content{
+        width: 300px;
+        }
+        .Service3::after{
+                position: absolute;
+                top: 116px;
+                left: 305px;
+                visibility: hidden;
+                
+            
+        }
+        
+        .Service4{
+            box-shadow: 1px 3px 6px;
+            border-radius: 10px;
+            padding: 20px 20px;
+            position: relative;
+            width: 100%;
+        }
+        .service-content {
+            width: 452px;
+        }
+        .service2 h2,h4{
+            color: navy;
+            font-weight: 700;
+        }.service-content p{
+            color: blue;
+        }
+        .service-content a{
+            color: orangered;
+            font-weight: 800;
+    
+        }
+        .service-content a:hover{
+            color: orangered;
+            font-weight: 800;
+            margin-left: 10px;
+            
+        }
+        .Service4 .service-content{
+        width: 300px;
+        }
+        .Service4::after{
+            
+                position: absolute;
+                top: 116px;
+                left: 313px;
+                visibility: hidden;
+        }
+        .service-right::after{
+                position: absolute;
+                top: 36px;
+                left: 478px;
+                visibility: hidden;
+        }
+        .service-right{
+            box-shadow: 1px 3px 6px;
+            border-radius: 10px;
+            padding: 20px 20px;
+            position: relative;
+        }
+        .service-content {
+            width: fit-content;
+        }
+        .scrap{
+          
+        }
+        .scrap-main{
+            padding: 18px 19px;
+            box-shadow: 1px 3px 9px;
+            height: auto;
+            border-radius: 20px
+        }
+        .scrap-content h3{
+    color: navy;
+    font-weight: 600;
+        }
+        .scrap-content p,.scrap-content ul li{
+            color: navy;
+        }
+        .scrap-content a{
+            color: orangered;
+            font-weight: bold;
+        }
+        .scrap-main img{
+        visibility: hidden;
+        }   
+
+    
+}
+@media (max-width:420px){
+    .product1::after,.product2::after{
+        display: none;
+    }
+    .Service1 .service-content{
+        width: 300px;
+        }
+        .Service1::after{
+            
+                position: absolute;
+                top: 116px;
+                left: 313px;
+                visibility: hidden;
+        }
+        .Service2{
+            box-shadow: 1px 3px 6px;
+            border-radius: 10px;
+            padding: 20px 20px;
+            position: relative;
+            width: 100%;
+        }
+        .service-content {
+            width:250px;
+        }
+        .service2 h2,h4{
+            color: navy;
+            font-weight: 700;
+        }.service-content p{
+            color: blue;
+        }
+        .service-content a{
+            color: orangered;
+            font-weight: 800;
+    
+        }
+        .service-content a:hover{
+            color: orangered;
+            font-weight: 800;
+            margin-left: 10px;
+            
+        }
+        .Service2 .service-content{
+        width: 300px;
+        }
+        .Service2::after{
+
+                position: absolute;
+                top: 116px;
+                left: 313px;
+                visibility: hidden;
+        }
+        
+        .Service3{
+            box-shadow: 1px 3px 6px;
+            border-radius: 10px;
+            padding: 20px 20px;
+            position: relative;
+            width: 100%;
+        }
+        .service-content {
+            width: 452px;
+        }
+        .service2 h2,h4{
+            color: navy;
+            fSont-weight: 700;
+        }.service-content p{
+            color: blue;
+        }
+        .service-content a{
+            color: orangered;
+            font-weight: 800;
+    
+        }
+        .service-content a:hover{
+            color: orangered;
+            font-weight: 800;
+            margin-left: 10px;
+            
+        }
+        .Service3 .service-content{
+        width: 300px;
+        }
+        .Service3::after{
+                position: absolute;
+                top: 116px;
+                left: 305px;
+                visibility: hidden;
+                
+            
+        }
+        
+        .Service4{
+            box-shadow: 1px 3px 6px;
+            border-radius: 10px;
+            padding: 20px 20px;
+            position: relative;
+            width: 100%;
+        }
+        .service-content {
+            width: 452px;
+        }
+        .service2 h2,h4{
+            color: navy;
+            font-weight: 700;
+        }.service-content p{
+            color: blue;
+        }
+        .service-content a{
+            color: orangered;
+            font-weight: 800;
+    
+        }
+        .service-content a:hover{
+            color: orangered;
+            font-weight: 800;
+            margin-left: 10px;
+            
+        }
+        .Service4 .service-content{
+        width: 300px;
+        }
+        .Service4::after{
+            
+                position: absolute;
+                top: 116px;
+                left: 313px;
+                visibility: hidden;
+        }
+        .service-right::after{
+                position: absolute;
+                top: 36px;
+                left: 478px;
+                visibility: hidden;
+        }
+        .service-right{
+            box-shadow: 1px 3px 6px;
+            border-radius: 10px;
+            padding: 20px 20px;
+            position: relative;
+        }
+        .service-content {
+            width: fit-content;
+        }
+        .scrap{
+          
+        }
+        .scrap-main{
+            padding: 18px 19px;
+            box-shadow: 1px 3px 9px;
+            height: auto;
+            border-radius: 20px
+        }
+        .scrap-content h3{
+    color: navy;
+    font-weight: 600;
+        }
+        .scrap-content p,.scrap-content ul li{
+            color: navy;
+        }
+        .scrap-content a{
+            color: orangered;
+            font-weight: bold;
+        }
+        .scrap-main img{
+        visibility: hidden;
+        }
+        .service-content {
+            width: fit-content;
+        }
+
+}
